@@ -1,0 +1,6 @@
+{
+  "appTitle": "ephotos",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
